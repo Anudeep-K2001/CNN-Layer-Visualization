@@ -17,7 +17,7 @@ Welcome to this short project where we will leverage the power of Convolutional 
 
 ## Project Structure
 
-The project is designed to be completed within a 1-hour timeframe. It will consist of the following key steps:
+The project will consist of the following key steps:
 
 1. **Introduction to VGG16:** Brief overview of the VGG16 model and its significance in computer vision.
 2. **Loading and Preprocessing Data:** Utilizing TensorFlow to load and preprocess data for training.
@@ -31,4 +31,11 @@ The project is designed to be completed within a 1-hour timeframe. It will consi
 
    ```bash
    git clone https://github.com/your-username/visualizing-cnn-filters.git
-   cd visualizing-cnn-filters
+
+2. **Open the Jupyter Notebook:**
+
+Open the provided Jupyter Notebook in Google Colab to start the guided project.
+
+3. **Follow the Guided Instructions:**
+
+The notebook includes step-by-step instructions to guide you through the process of visualizing CNN filters with VGG16 using TensorFlow.
