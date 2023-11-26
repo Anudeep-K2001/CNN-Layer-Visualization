@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Welcome to this short, 1-hour guided project! In this hands-on session, we will leverage the power of Convolutional Neural Networks (CNNs) by utilizing the popular VGG16 model. Our main goal is to visualize different filters from various layers of the CNN using gradient ascent. This technique allows us to generate images that maximally activate specific filters, providing insights into what the network has learned.
+Welcome to this short project where we will leverage the power of Convolutional Neural Networks (CNNs) by utilizing the popular VGG16 model. Our main goal is to visualize different filters from various layers of the CNN using gradient ascent. This technique allows us to generate images that maximally activate specific filters, providing insights into what the network has learned.
 
 ## Technologies Used
 
